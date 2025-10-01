@@ -7,5 +7,5 @@ Ela lista alguns times fictícios e retorna informações básicas.
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/futebol-docker.git
+git clone https://github.com/rpsroberto/futebol_docker
 cd futebol-docker
