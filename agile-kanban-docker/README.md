@@ -33,5 +33,5 @@ Ele permite criar quadros de tarefas, listas e cartões, simulando fluxos ágeis
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/agile-kanban-docker.git
+git clone https://github.com/rpsroberto/futebol_docker
 cd agile-kanban-docker
